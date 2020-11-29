@@ -3,5 +3,6 @@
 
 
 One of my first discord bots.
-Feel free to use it and put in ur own bot token.
-in the working.
+
+# Token
+Once this project is complete all you need to do is replace the bot token with your token.
